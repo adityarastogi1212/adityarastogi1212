@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hello 👋, I'm Aditya Rastogi</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3><br/>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityarastogi1212&label=Profile%20views&color=0e75b6&style=flat" alt="adityarastogi1212" /> </p>
  -->
