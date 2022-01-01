@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityarastogi1212&label=Profile%20views&color=0e75b6&style=flat" alt="adityarastogi1212" /> </p>
  -->
+ 
+ <h3 align="center">Github Trophies</h3><br/><br/>
+ 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityarastogi1212" alt="adityarastogi1212" /></a> </p>
 
 <!-- <p align="center"> <a href="https://twitter.com/adityar05678214" target="blank"><img src="https://img.shields.io/twitter/follow/adityar05678214?logo=twitter&style=for-the-badge" alt="adityar05678214" /></a> </p>
