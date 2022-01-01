@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hello 👋, I'm Aditya Rastogi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adityarastogi1212&label=Profile%20views&color=0e75b6&style=flat" alt="adityarastogi1212" /> </p>
-
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityarastogi1212&label=Profile%20views&color=0e75b6&style=flat" alt="adityarastogi1212" /> </p>
+ -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityarastogi1212" alt="adityarastogi1212" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/adityar05678214" target="blank"><img src="https://img.shields.io/twitter/follow/adityar05678214?logo=twitter&style=for-the-badge" alt="adityar05678214" /></a> </p>
-
+<!-- <p align="center"> <a href="https://twitter.com/adityar05678214" target="blank"><img src="https://img.shields.io/twitter/follow/adityar05678214?logo=twitter&style=for-the-badge" alt="adityar05678214" /></a> </p>
+ -->
 - 🔭 I’m currently working on [my portfolio website](https://oneforalltasks.herokuapp.com/)
 
 - 🌱 I’m currently learning **neural networks and deep learning**
